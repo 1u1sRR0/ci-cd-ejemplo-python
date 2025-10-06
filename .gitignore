@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.reports/
+reports/
+.pytest_cache/
+.coverage
+coverage.xml
+dist/
+build/
